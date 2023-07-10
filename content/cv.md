@@ -1,5 +1,5 @@
 ---
-title: "Fatih Kansoy - CV"
+title: "Fatih Kansoya - CV"
 aliases:
     - /Reseach.html
 hidemeta: true
