@@ -11,9 +11,8 @@ description: "Schedule and location for my office hours at the University of Cal
 Education
 ---------
 
-2023 (expected)
-:   **Assistant Professor (Teaching) in Economics**; Awesome University (MyTown)
-
+Assistant Professor (Teaching) in Economics 
+:   **2023 (expected)**; 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
