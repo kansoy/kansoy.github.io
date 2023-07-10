@@ -11,12 +11,12 @@ description: "Schedule and location for my office hours at the University of Cal
 Experiences
 ---------
 
-2023         
-:            **Assistant Professor (Teaching) in Economics**; 
+2023 sada sad          
+:               **Assistant Professor (Teaching) in Economics**; 
 
 
-2019       
-:          **Teaching Fellow in Macroeconomics**;
+2019 dsa  s    
+:              **Teaching Fellow in Macroeconomics**;
 
 Education
 ---------
