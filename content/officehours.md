@@ -21,4 +21,4 @@ Regular office hours will start in the Fall Quarter (9/28/2023–12/8/2023).
 
 #### Ad hoc office hours
 
-If you are a UCSC graduate student on the job market or at the research stage and would like to talk, please [email me](mailto:kansoy@gmail.com) to set up a meeting.
+If you are a UCSC graduate student on the job market or at the research stage and would like to talk, please [email me](mailto:f.kansoy@warwick.ac.uk) to set up a meeting.

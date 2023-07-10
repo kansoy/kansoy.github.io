@@ -1,3 +1,13 @@
+---
+title: "Office Hours"
+aliases:
+    - /Reseach.html
+hidemeta: true
+description: "Schedule and location for my office hours at the University of California, Santa Cruz."
+---
+
+--- 
+
 Johnny Coder
 ============
 
