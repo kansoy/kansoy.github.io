@@ -75,12 +75,12 @@ the [__Warwick__](https://www.warwick.ac.uk) as an Assistant Professor (Teaching
           #   - name: Newsletter
           #     url: https://pmichaillat.substack.com
     socialIcons:
-     #    - name: CV
-      #     url: /cv.pdf
+        - name: CV
+          url: /fatih
         - name: Email
           url: mailto:kansoy@gmail.com
-       #   - name: Location
-       #     url: /location/
+        - name: Location
+          url: https://warwick.ac.uk/fatihkansoy
        #   - name: Office Hours
        #     url: /officehours/
         - name: Google Scholar
