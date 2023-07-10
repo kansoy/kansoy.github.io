@@ -1,7 +1,7 @@
 ---
-title: "Office Hours"
+title: "Reseach"
 aliases:
-    - /oh.html
+    - /Reseach.html
 hidemeta: true
 description: "Schedule and location for my office hours at the University of California, Santa Cruz."
 ---
