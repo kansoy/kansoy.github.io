@@ -1,5 +1,5 @@
 ---
-title: "Reseach"
+title: "Office Hours"
 aliases:
     - /Reseach.html
 hidemeta: true
