@@ -90,9 +90,14 @@ Extra Section, Call it Whatever You Want
 * Other sort of impressive-sounding thing you did
 
 
- 
+<h4 id="teachingexperiences"> <p class="small"> <p class="small">Employment </p></h4>
+            <hr width="20%" color="red" align="left"> 
+         
+<h4 id="teachingexperiences"> <p class="small"> <p class="small">Technical Strengths</p></h4>
 
 
-
-
- 
+<hr width="35%" color="red" align="left"> 
+ <div>
+    <ul>
+        <li><b>Languages:</b> Turkish (Native),  English (Fluent) </li>
+        </ul>
