@@ -1,13 +1,10 @@
 ---
-title: "Fatih Kansoy - CV"
+# title: "Fatih Kansoy - CV"
 aliases:
-    - /Reseach.html
+    - /cv.html
 hidemeta: true
-description: "Schedule and location for my office hours at the University of California, Santa Cruz."
+description: "CV"
 ---
-
-============
-
 
 ## Education
 
@@ -108,5 +105,3 @@ description: "Schedule and location for my office hours at the University of Cal
 
 - Supervised biology, chemistry, and physics lab practices of 9th-grade students for Zhongzhao Examination
 - Taught lab safety guidelines, standard lab procedures, and best practices, as well as ensured lab safety
-
-<!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
