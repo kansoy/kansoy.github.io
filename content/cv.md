@@ -8,7 +8,7 @@ description: "Schedule and location for my office hours at the University of Cal
 
 ============
 
-Education
+Educationx
 ---------
 
 2023   
