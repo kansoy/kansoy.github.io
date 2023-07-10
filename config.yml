@@ -1,0 +1,121 @@
+baseURL: "https://pascalmichaillat.org/" 
+title: Fatih Kansoy
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+social:
+    twitter: kansoy
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Papers
+          url: /papers/
+          weight: 1
+        - name: Courses
+          url: /courses/
+          weight: 2
+        - name: Design
+          url: /design/
+          weight: 3
+        - name: Tags
+          url: /tags/
+          weight: 5     
+        - name: Newsletter
+          url: https://pmichaillat.substack.com
+          weight: 4
+
+params:
+    description: "Hi! It's Fatih, I am working at 
+the Warwick as an Assistant Professor (Teaching) in Economics. I completed my Ph.D in Economics at Nottingham. "
+    author: Fatih Kansoy
+    googleAnalyticsID: "G-97G4MZ4061"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Fatih Kansoy
+          subtitle: "Hi! It's Fatih, I am working at 
+the [__Warwick__](https://www.warwick.ac.uk) as an Assistant Professor (Teaching) in Economics. I completed my Ph.D in Economics at [__Nottingham.__](https://www.warwick.ac.uk) My research interests include monetary economics, computational social science and specifically [__central bank communication.__](https://www.centralbankcommunication.com) I have been teaching a variety of macro-finance modules. I also teach at the [__Warwick Summer School.__](https://warwick.ac.uk/study/summer-with-warwick/warwick-summer-school/courses/banking/)
+          
+          "
+          imageUrl: "/picture.jpeg"
+          imageWidth: 170
+          imageHeight: 170
+          imageTitle: Fatih Kansoy
+          buttons:
+         #    - name: Papers
+          #     url: /papers/
+         #    - name: Courses
+          #     url: /courses/
+          #   - name: Design
+          #     url: /design/
+          #   - name: Newsletter
+          #     url: https://pmichaillat.substack.com
+    socialIcons:
+     #    - name: CV
+      #     url: /cv.pdf
+        - name: Email
+          url: mailto:kansoy@gmail.com
+       #   - name: Location
+       #     url: /location/
+       #   - name: Office Hours
+       #     url: /officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=xMvUwaoAAAAJ&hl
+        - name: YouTube
+          url: https://www.youtube.com/fatihkansoy
+        - name: GitHub
+          url: https://github.com/kansoy
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+      text: "Fatih Kansoy"
+      icon: /favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: xcode
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
+
+# max number of characters:
+# * title: 70
+# * description: 120–155
+# * summary: 265
