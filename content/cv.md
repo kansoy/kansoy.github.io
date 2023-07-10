@@ -1,33 +1,24 @@
 ---
-title: "Office Hours"
+title: "Fatih Kansoy - CV"
 aliases:
     - /Reseach.html
 hidemeta: true
 description: "Schedule and location for my office hours at the University of California, Santa Cruz."
 ---
 
---- 
-
-Johnny Coder
 ============
-
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2023 (expected)
+:   **Assistant Professor (Teaching) in Economics**; Awesome University (MyTown)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
+2019
+:   **Teaching Fellow in Macroeconomics**; University of
     HomeTown (HomeTown)
 
     *Minor: Awesomeology*
