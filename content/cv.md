@@ -8,19 +8,18 @@ description: "Schedule and location for my office hours at the University of Cal
 
 ============
 
-Education
+## Education
 ---------
 
-2023   
+### 2023   
 :   **Assistant Professor (Teaching) in Economics**; 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Deep Learning*
 
-2019
+###  2019
 :   **Teaching Fellow in Macroeconomics**;
     *Minor: Awesomeology*
 
-Experience
+## Experience
 ----------
 
 **Your Most Recent Work Experience:**
