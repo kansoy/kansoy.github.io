@@ -22,3 +22,9 @@ Regular office hours will start in the Fall Quarter (9/28/2023–12/8/2023).
 #### Ad hoc office hours
 
 If you are a UCSC graduate student on the job market or at the research stage and would like to talk, please [email me](mailto:kansoy@gmail.com) to set up a meeting.
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/kansoy/2023', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
+<!-- Calendly badge widget end -->
