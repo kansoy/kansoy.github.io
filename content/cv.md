@@ -1,5 +1,5 @@
 ---
-title: "Fatih Kansoya - CV"
+title: "Fatih Kansoy - CV"
 aliases:
     - /Reseach.html
 hidemeta: true
@@ -8,19 +8,17 @@ description: "Schedule and location for my office hours at the University of Cal
 
 ============
 
-Educationx
+Experiences
 ---------
 
 2023   
 :   **Assistant Professor (Teaching) in Economics**; 
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
 2019
 :   **Teaching Fellow in Macroeconomics**;
 
-## Education
+Education
 ---------
 
 ### 2023   
@@ -31,7 +29,7 @@ Educationx
 :   **Teaching Fellow in Macroeconomics**;
     
 
-## Experience
+Education 
 ----------
 
 **Your Most Recent Work Experience:**
