@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/" 
+baseURL: "https://kansoy.me/" 
 title: Fatih Kansoy
 paginate: 20
 theme: PaperMod
@@ -34,7 +34,7 @@ params:
     description: "Hi! It's Fatih, I am working at 
 the Warwick as an Assistant Professor (Teaching) in Economics. I completed my Ph.D in Economics at Nottingham. "
     author: Fatih Kansoy
-    googleAnalyticsID: "G-97G4MZ4061"
+    googleAnalyticsID: "GTM-5RVXWWN"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
