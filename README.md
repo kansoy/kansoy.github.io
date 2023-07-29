@@ -1,1 +1,2 @@
-
+Hi! It's Fatih, I am working at 
+the [__Warwick__](https://www.warwick.ac.uk) as an Assistant Professor (Teaching) in Economics. I completed my Ph.D in Economics at [__Nottingham.__](https://www.nottingham.ac.uk/economics) My research interests include monetary economics, computational social science and specifically [__central bank communication.__](https://www.centralbankcommunication.com) I have been teaching a variety of macro-finance modules. I also teach at the [__Warwick Summer School.__](https://warwick.ac.uk/study/summer-with-warwick/warwick-summer-school/courses/banking/)
