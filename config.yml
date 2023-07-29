@@ -68,8 +68,8 @@ the [__Warwick__](https://www.warwick.ac.uk) as an Assistant Professor (Teaching
           buttons:
               - name: Research
                 url: /papers/
-          #   - name: Teaching
-          #      url: /courses/
+              - name: Teaching
+                url: /courses/
           #   - name: Design
           #     url: /design/
           #   - name: Newsletter
