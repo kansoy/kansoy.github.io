@@ -66,8 +66,8 @@ the [__Warwick__](https://www.warwick.ac.uk) as an Assistant Professor (Teaching
           imageHeight: 170
           imageTitle: Fatih Kansoy
           buttons:
-            - name: Research
-               url: /papers/
+              - name: Research
+                url: /papers/
           #   - name: Teaching
           #      url: /courses/
           #   - name: Design
